@@ -8,7 +8,7 @@ export function stripIndents(arg0: string | TemplateStringsArray, ...values: any
     }, '');
 
     return _stripIndents(processedString);
-  }
+  } 
 
   return _stripIndents(arg0);
 }

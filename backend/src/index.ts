@@ -32,7 +32,7 @@ app.use(cors({
   origin: [
     'http://localhost:5173',
     'https://websage30.vercel.app',
-    'https://websage-vanshsehgal08s-projects.vercel.app'
+    'https://web-sage-sigma.vercel.app'
   ],
   credentials: true
 }))

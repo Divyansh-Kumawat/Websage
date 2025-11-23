@@ -190,7 +190,7 @@ export function Home() {
                 target="_blank"
                 className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-400 hover:underline"
               >
-                Vansh
+                Divyansh Kumawat
               </a>
             </p>
           </div>
